@@ -35,10 +35,10 @@ var friends = [
       scores: [4, 3, 4, 2, 4, 3, 5, 3, 5, 4]
     },
     {
-      name: "Kate Upton",
+      name: "Felicity Jones",
       photo:
-        "https://m.media-amazon.com/images/M/MV5BMTk3MTA2ODQ1MF5BMl5BanBnXkFtZTcwMjkwMDYxNw@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Felicity_Jones_%2829582838166%29.jpg",
       scores: [4, 4, 2, 3, 2, 2, 3, 2, 4, 5]
     }
-  ];
+];
   module.exports = friends;
